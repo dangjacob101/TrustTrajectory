@@ -1,0 +1,102 @@
+{
+  "claude-sonnet-4-5_s2_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 1,
+    "avg_clarifications": 0
+  },
+  "claude-sonnet-4-5_s3_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0.4,
+    "avg_clarifications": 0
+  },
+  "claude-sonnet-4-5_s4_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 1,
+    "avg_clarifications": 0
+  },
+  "claude-sonnet-4-5_s5_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 1,
+    "avg_clarifications": 0
+  },
+  "claude-sonnet-4-5_s7_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0.6,
+    "avg_clarifications": 0
+  },
+  "claude-sonnet-4-5_s1_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 1,
+    "avg_clarifications": 0
+  },
+  "claude-sonnet-4-5_s2_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 1,
+    "avg_clarifications": 0
+  },
+  "claude-sonnet-4-5_s3_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 1,
+    "avg_clarifications": 0
+  },
+  "claude-sonnet-4-5_s4_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 1,
+    "avg_clarifications": 0
+  },
+  "claude-sonnet-4-5_s6_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "claude-sonnet-4-5_s7_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 1,
+    "avg_clarifications": 0
+  },
+  "claude-sonnet-4-5_s8_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 1,
+    "avg_clarifications": 0
+  },
+  "claude-sonnet-4-5_s1_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "claude-sonnet-4-5_s3_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "claude-sonnet-4-5_s6_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "claude-sonnet-4-5_s7_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "claude-sonnet-4-5_s8_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "claude-sonnet-4-5_s8_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 1,
+    "avg_clarifications": 0
+  },
+  "claude-sonnet-4-5_s5_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "claude-sonnet-4-5_s4_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  }
+}

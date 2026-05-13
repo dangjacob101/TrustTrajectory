@@ -1,0 +1,362 @@
+{
+  "claude-3-7-sonnet-20250219_s1_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "claude-3-7-sonnet-20250219_s2_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "claude-3-7-sonnet-20250219_s3_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "claude-3-7-sonnet-20250219_s4_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "claude-3-7-sonnet-20250219_s5_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "claude-3-7-sonnet-20250219_s6_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0.4,
+    "avg_clarifications": 0
+  },
+  "claude-3-7-sonnet-20250219_s7_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "claude-3-7-sonnet-20250219_s8_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "claude-3-7-sonnet-20250219_s1_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "claude-3-7-sonnet-20250219_s2_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "claude-3-7-sonnet-20250219_s3_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "claude-3-7-sonnet-20250219_s4_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "claude-3-7-sonnet-20250219_s5_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "claude-3-7-sonnet-20250219_s6_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "claude-3-7-sonnet-20250219_s7_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "claude-3-7-sonnet-20250219_s8_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 1,
+    "avg_clarifications": 0
+  },
+  "claude-3-7-sonnet-20250219_s1_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "claude-3-7-sonnet-20250219_s2_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "claude-3-7-sonnet-20250219_s3_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "claude-3-7-sonnet-20250219_s4_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "claude-3-7-sonnet-20250219_s5_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "claude-3-7-sonnet-20250219_s6_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "claude-3-7-sonnet-20250219_s7_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "claude-3-7-sonnet-20250219_s8_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "gpt-4o-mini_s1_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0.2
+  },
+  "gpt-4o-mini_s2_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "gpt-4o-mini_s3_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "gpt-4o-mini_s4_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "gpt-4o-mini_s5_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "gpt-4o-mini_s6_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0.4
+  },
+  "gpt-4o-mini_s7_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "gpt-4o-mini_s8_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0.4,
+    "avg_clarifications": 0.4
+  },
+  "gpt-4o-mini_s1_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "gpt-4o-mini_s2_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "gpt-4o-mini_s3_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "gpt-4o-mini_s4_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0.2,
+    "avg_clarifications": 0.2
+  },
+  "gpt-4o-mini_s5_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0.2,
+    "avg_clarifications": 2.4
+  },
+  "gpt-4o-mini_s6_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0.4
+  },
+  "gpt-4o-mini_s7_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0.8
+  },
+  "gpt-4o-mini_s8_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "gpt-4o-mini_s1_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 3.4
+  },
+  "gpt-4o-mini_s2_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 3.8
+  },
+  "gpt-4o-mini_s3_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 4
+  },
+  "gpt-4o-mini_s4_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "gpt-4o-mini_s5_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "gpt-4o-mini_s6_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "gpt-4o-mini_s7_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "gpt-4o-mini_s8_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "gpt-4o_s1_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0.2,
+    "avg_clarifications": 0.2
+  },
+  "gpt-4o_s2_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0.2,
+    "avg_clarifications": 0
+  },
+  "gpt-4o_s3_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "gpt-4o_s4_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0.2,
+    "avg_clarifications": 0
+  },
+  "gpt-4o_s5_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0.4,
+    "avg_clarifications": 0
+  },
+  "gpt-4o_s6_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "gpt-4o_s7_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0.2,
+    "avg_clarifications": 0
+  },
+  "gpt-4o_s8_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "gpt-4o_s1_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "gpt-4o_s2_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "gpt-4o_s3_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "gpt-4o_s4_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0.6,
+    "avg_clarifications": 0
+  },
+  "gpt-4o_s5_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "gpt-4o_s6_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "gpt-4o_s7_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "gpt-4o_s8_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0.2,
+    "avg_clarifications": 0.8
+  },
+  "gpt-4o_s1_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "gpt-4o_s2_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0.4,
+    "avg_clarifications": 1.2
+  },
+  "gpt-4o_s3_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "gpt-4o_s4_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0.2,
+    "avg_clarifications": 0
+  },
+  "gpt-4o_s5_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0.4,
+    "avg_clarifications": 0
+  },
+  "gpt-4o_s6_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "gpt-4o_s7_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  },
+  "gpt-4o_s8_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 0,
+    "avg_clarifications": 0
+  }
+}

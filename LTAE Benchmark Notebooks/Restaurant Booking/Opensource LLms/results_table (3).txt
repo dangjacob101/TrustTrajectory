@@ -1,0 +1,40 @@
+% RESEARCH-GRADE RESULTS TABLE WITH pass@k METRIC
+% Benchmarking Long-Trajectory Agentic Execution
+% Include in paper with: \input{results_table.txt}
+
+\begin{table}[h]
+\centering
+\small
+\begin{tabular}{l l r r r r r}
+\hline
+Model & Scenario & $n$ & Mean & \textbf{95\% CI} & pass@10 & pass@15 \\
+\hline
+Llama-4-Maverick-17B-128E-Instruct-FP8 & s1_easy & 5 & 18 & [18.0, 18.0] & 1.0 & 1.0 \\
+Llama-4-Maverick-17B-128E-Instruct-FP8 & s2_easy & 5 & 18 & [18.0, 18.0] & 1.0 & 1.0 \\
+Llama-4-Maverick-17B-128E-Instruct-FP8 & s3_easy & 5 & 18.2 & [17.81, 18.59] & 1.0 & 1.0 \\
+Llama-4-Maverick-17B-128E-Instruct-FP8 & s4_easy & 5 & 18 & [18.0, 18.0] & 1.0 & 1.0 \\
+Llama-4-Maverick-17B-128E-Instruct-FP8 & s5_easy & 5 & 18 & [18.0, 18.0] & 1.0 & 1.0 \\
+Llama-4-Maverick-17B-128E-Instruct-FP8 & s6_easy & 5 & 18 & [18.0, 18.0] & 1.0 & 1.0 \\
+Llama-4-Maverick-17B-128E-Instruct-FP8 & s7_easy & 5 & 18 & [18.0, 18.0] & 1.0 & 1.0 \\
+Llama-4-Maverick-17B-128E-Instruct-FP8 & s8_easy & 5 & 18 & [18.0, 18.0] & 1.0 & 1.0 \\
+Llama-4-Maverick-17B-128E-Instruct-FP8 & s1_medium & 5 & 18 & [18.0, 18.0] & 1.0 & 1.0 \\
+Llama-4-Maverick-17B-128E-Instruct-FP8 & s2_medium & 5 & 18 & [18.0, 18.0] & 1.0 & 1.0 \\
+Llama-4-Maverick-17B-128E-Instruct-FP8 & s3_medium & 5 & 18 & [18.0, 18.0] & 1.0 & 1.0 \\
+Llama-4-Maverick-17B-128E-Instruct-FP8 & s4_medium & 5 & 18.4 & [17.92, 18.88] & 1.0 & 1.0 \\
+Llama-4-Maverick-17B-128E-Instruct-FP8 & s5_medium & 5 & 17.2 & [16.81, 17.59] & 1.0 & 1.0 \\
+Llama-4-Maverick-17B-128E-Instruct-FP8 & s6_medium & 5 & 18.4 & [17.92, 18.88] & 1.0 & 1.0 \\
+Llama-4-Maverick-17B-128E-Instruct-FP8 & s7_medium & 5 & 18.2 & [17.81, 18.59] & 1.0 & 1.0 \\
+Llama-4-Maverick-17B-128E-Instruct-FP8 & s8_medium & 5 & 18 & [18.0, 18.0] & 1.0 & 1.0 \\
+Llama-4-Maverick-17B-128E-Instruct-FP8 & s1_hard & 5 & 18.6 & [18.12, 19.08] & 1.0 & 1.0 \\
+Llama-4-Maverick-17B-128E-Instruct-FP8 & s2_hard & 5 & 18 & [18.0, 18.0] & 1.0 & 1.0 \\
+Llama-4-Maverick-17B-128E-Instruct-FP8 & s3_hard & 5 & 18.6 & [18.12, 19.08] & 1.0 & 1.0 \\
+Llama-4-Maverick-17B-128E-Instruct-FP8 & s4_hard & 5 & 17.8 & [17.41, 18.19] & 1.0 & 1.0 \\
+Llama-4-Maverick-17B-128E-Instruct-FP8 & s5_hard & 5 & 18 & [18.0, 18.0] & 1.0 & 1.0 \\
+Llama-4-Maverick-17B-128E-Instruct-FP8 & s6_hard & 5 & 17.8 & [16.66, 18.94] & 1.0 & 1.0 \\
+Llama-4-Maverick-17B-128E-Instruct-FP8 & s7_hard & 5 & 16.2 & [15.06, 17.34] & 1.0 & 0.8 \\
+Llama-4-Maverick-17B-128E-Instruct-FP8 & s8_hard & 5 & 15.8 & [15.41, 16.19] & 1.0 & 1.0 \\
+\hline
+\end{tabular}
+\caption{Long-Trajectory Agentic Execution (LTA-E) benchmark results. pass@k measures reliability across runs.}
+\label{tab:lta-e-results}
+\end{table}

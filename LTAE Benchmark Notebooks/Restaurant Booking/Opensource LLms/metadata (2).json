@@ -1,0 +1,16 @@
+{
+  "benchmark_name": "Long-Trajectory Agentic Execution (LTA-E)",
+  "benchmark_version": "1.0",
+  "research_focus": "multi-turn agent performance on structured reservation tasks",
+  "generated_at": "2026-01-05T00:40:46.879063",
+  "random_seed": 42,
+  "n_runs_per_scenario": 5,
+  "models_tested": [
+    "Llama-4-Maverick-17B-128E-Instruct-FP8"
+  ],
+  "n_scenarios": 24,
+  "total_runs": 120,
+  "temperature": 0.2,
+  "max_tokens": 500,
+  "max_turns": 4
+}

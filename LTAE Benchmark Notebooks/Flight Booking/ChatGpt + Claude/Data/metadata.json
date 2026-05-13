@@ -1,0 +1,18 @@
+{
+  "benchmark_name": "Long-Trajectory Agentic Execution (LTA-E) - Airplane Booking",
+  "benchmark_version": "1.0",
+  "research_focus": "multi-turn agent performance on structured flight booking tasks",
+  "generated_at": "2025-11-04T05:41:51.934170",
+  "random_seed": 42,
+  "n_runs_per_scenario": 5,
+  "models_tested": [
+    "claude-3-7-sonnet-20250219",
+    "gpt-4o-mini",
+    "gpt-4o"
+  ],
+  "n_scenarios": 24,
+  "total_runs": 360,
+  "temperature": 0.2,
+  "max_tokens": 500,
+  "max_turns": 4
+}

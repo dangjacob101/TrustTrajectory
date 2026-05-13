@@ -1,0 +1,122 @@
+{
+  "Llama-4-Maverick-17B-128E-Instruct-FP8_s1_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 1,
+    "avg_clarifications": 0
+  },
+  "Llama-4-Maverick-17B-128E-Instruct-FP8_s2_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 1,
+    "avg_clarifications": 0
+  },
+  "Llama-4-Maverick-17B-128E-Instruct-FP8_s3_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 1,
+    "avg_clarifications": 0
+  },
+  "Llama-4-Maverick-17B-128E-Instruct-FP8_s4_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 1,
+    "avg_clarifications": 0
+  },
+  "Llama-4-Maverick-17B-128E-Instruct-FP8_s5_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 1.2,
+    "avg_clarifications": 0
+  },
+  "Llama-4-Maverick-17B-128E-Instruct-FP8_s6_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 1,
+    "avg_clarifications": 0
+  },
+  "Llama-4-Maverick-17B-128E-Instruct-FP8_s7_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 1,
+    "avg_clarifications": 0
+  },
+  "Llama-4-Maverick-17B-128E-Instruct-FP8_s8_easy": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 1,
+    "avg_clarifications": 0
+  },
+  "Llama-4-Maverick-17B-128E-Instruct-FP8_s1_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 1,
+    "avg_clarifications": 1
+  },
+  "Llama-4-Maverick-17B-128E-Instruct-FP8_s2_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 1,
+    "avg_clarifications": 0.8
+  },
+  "Llama-4-Maverick-17B-128E-Instruct-FP8_s3_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 1,
+    "avg_clarifications": 0
+  },
+  "Llama-4-Maverick-17B-128E-Instruct-FP8_s4_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 1.2,
+    "avg_clarifications": 0
+  },
+  "Llama-4-Maverick-17B-128E-Instruct-FP8_s5_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 1,
+    "avg_clarifications": 0.6
+  },
+  "Llama-4-Maverick-17B-128E-Instruct-FP8_s6_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 1,
+    "avg_clarifications": 0
+  },
+  "Llama-4-Maverick-17B-128E-Instruct-FP8_s7_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 1.2,
+    "avg_clarifications": 0
+  },
+  "Llama-4-Maverick-17B-128E-Instruct-FP8_s8_medium": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 1.2,
+    "avg_clarifications": 0
+  },
+  "Llama-4-Maverick-17B-128E-Instruct-FP8_s1_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 1.4,
+    "avg_clarifications": 0
+  },
+  "Llama-4-Maverick-17B-128E-Instruct-FP8_s2_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 1,
+    "avg_clarifications": 0.4
+  },
+  "Llama-4-Maverick-17B-128E-Instruct-FP8_s3_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 1.6,
+    "avg_clarifications": 0
+  },
+  "Llama-4-Maverick-17B-128E-Instruct-FP8_s4_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 1.2,
+    "avg_clarifications": 0.8
+  },
+  "Llama-4-Maverick-17B-128E-Instruct-FP8_s5_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 1,
+    "avg_clarifications": 0.8
+  },
+  "Llama-4-Maverick-17B-128E-Instruct-FP8_s6_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 1.2,
+    "avg_clarifications": 0
+  },
+  "Llama-4-Maverick-17B-128E-Instruct-FP8_s7_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 1.4,
+    "avg_clarifications": 0
+  },
+  "Llama-4-Maverick-17B-128E-Instruct-FP8_s8_hard": {
+    "avg_turns": 4,
+    "avg_tool_attempts": 1.4,
+    "avg_clarifications": 0.4
+  }
+}

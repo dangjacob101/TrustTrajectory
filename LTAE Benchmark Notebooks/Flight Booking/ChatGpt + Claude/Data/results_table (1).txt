@@ -1,0 +1,87 @@
+% RESEARCH-GRADE RESULTS TABLE WITH pass@k METRIC
+% Include in paper with: \input{results_table.txt}
+
+\begin{table}[h]
+\centering
+\small
+\begin{tabular}{l l r r r r r}
+\hline
+Model & Scenario & $n$ & Mean & \textbf{95\% CI} & pass@10 & pass@15 \\
+\hline
+claude-3-7-sonnet-20250219 & s1_easy & 5 & 13.2 & [12.24, 14.16] & 1.0 & 0.2 \\
+claude-3-7-sonnet-20250219 & s2_easy & 5 & 13.6 & [12.82, 14.38] & 1.0 & 0.2 \\
+claude-3-7-sonnet-20250219 & s3_easy & 5 & 13.2 & [12.47, 13.93] & 1.0 & 0.0 \\
+claude-3-7-sonnet-20250219 & s4_easy & 5 & 13.4 & [12.4, 14.4] & 1.0 & 0.2 \\
+claude-3-7-sonnet-20250219 & s5_easy & 5 & 13.6 & [13.12, 14.08] & 1.0 & 0.0 \\
+claude-3-7-sonnet-20250219 & s6_easy & 5 & 15.4 & [13.29, 17.51] & 1.0 & 0.4 \\
+claude-3-7-sonnet-20250219 & s7_easy & 5 & 13 & [11.93, 14.07] & 1.0 & 0.2 \\
+claude-3-7-sonnet-20250219 & s8_easy & 5 & 13 & [13.0, 13.0] & 1.0 & 0.0 \\
+claude-3-7-sonnet-20250219 & s1_medium & 5 & 13.4 & [12.92, 13.88] & 1.0 & 0.0 \\
+claude-3-7-sonnet-20250219 & s2_medium & 5 & 13.4 & [12.92, 13.88] & 1.0 & 0.0 \\
+claude-3-7-sonnet-20250219 & s3_medium & 5 & 13.4 & [12.92, 13.88] & 1.0 & 0.0 \\
+claude-3-7-sonnet-20250219 & s4_medium & 5 & 12.2 & [11.81, 12.59] & 1.0 & 0.0 \\
+claude-3-7-sonnet-20250219 & s5_medium & 5 & 12.8 & [12.41, 13.19] & 1.0 & 0.0 \\
+claude-3-7-sonnet-20250219 & s6_medium & 5 & 9.6 & [9.12, 10.08] & 0.6 & 0.0 \\
+claude-3-7-sonnet-20250219 & s7_medium & 5 & 12.4 & [11.92, 12.88] & 1.0 & 0.0 \\
+claude-3-7-sonnet-20250219 & s8_medium & 5 & 19 & [19.0, 19.0] & 1.0 & 1.0 \\
+claude-3-7-sonnet-20250219 & s1_hard & 5 & 8.2 & [7.24, 9.16] & 0.0 & 0.0 \\
+claude-3-7-sonnet-20250219 & s2_hard & 5 & 10.6 & [9.42, 11.78] & 0.8 & 0.0 \\
+claude-3-7-sonnet-20250219 & s3_hard & 5 & 8.6 & [7.6, 9.6] & 0.2 & 0.0 \\
+claude-3-7-sonnet-20250219 & s4_hard & 5 & 9.6 & [8.82, 10.38] & 0.8 & 0.0 \\
+claude-3-7-sonnet-20250219 & s5_hard & 5 & 10 & [8.93, 11.07] & 0.8 & 0.0 \\
+claude-3-7-sonnet-20250219 & s6_hard & 5 & 7.8 & [7.41, 8.19] & 0.0 & 0.0 \\
+claude-3-7-sonnet-20250219 & s7_hard & 5 & 5.6 & [5.12, 6.08] & 0.0 & 0.0 \\
+claude-3-7-sonnet-20250219 & s8_hard & 5 & 9.8 & [7.45, 12.15] & 0.4 & 0.0 \\
+gpt-4o-mini & s1_easy & 5 & 7.8 & [6.23, 9.37] & 0.2 & 0.0 \\
+gpt-4o-mini & s2_easy & 5 & 7 & [7.0, 7.0] & 0.0 & 0.0 \\
+gpt-4o-mini & s3_easy & 5 & 6.4 & [5.92, 6.88] & 0.0 & 0.0 \\
+gpt-4o-mini & s4_easy & 5 & 6.6 & [6.12, 7.08] & 0.0 & 0.0 \\
+gpt-4o-mini & s5_easy & 5 & 6.8 & [4.9, 8.7] & 0.2 & 0.0 \\
+gpt-4o-mini & s6_easy & 5 & 7.2 & [6.47, 7.93] & 0.0 & 0.0 \\
+gpt-4o-mini & s7_easy & 5 & 3 & [3.0, 3.0] & 0.0 & 0.0 \\
+gpt-4o-mini & s8_easy & 5 & 10.8 & [5.83, 15.77] & 0.4 & 0.4 \\
+gpt-4o-mini & s1_medium & 5 & 6.4 & [5.92, 6.88] & 0.0 & 0.0 \\
+gpt-4o-mini & s2_medium & 5 & 6.6 & [6.12, 7.08] & 0.0 & 0.0 \\
+gpt-4o-mini & s3_medium & 5 & 5.6 & [4.42, 6.78] & 0.0 & 0.0 \\
+gpt-4o-mini & s4_medium & 5 & 7.4 & [1.12, 13.68] & 0.2 & 0.2 \\
+gpt-4o-mini & s5_medium & 5 & 5.2 & [-0.29, 10.69] & 0.2 & 0.2 \\
+gpt-4o-mini & s6_medium & 5 & 7.2 & [4.85, 9.55] & 0.2 & 0.0 \\
+gpt-4o-mini & s7_medium & 5 & 6 & [2.33, 9.67] & 0.2 & 0.0 \\
+gpt-4o-mini & s8_medium & 5 & 7 & [7.0, 7.0] & 0.0 & 0.0 \\
+gpt-4o-mini & s1_hard & 5 & 1.2 & [-1.15, 3.55] & 0.0 & 0.0 \\
+gpt-4o-mini & s2_hard & 5 & 2 & [2.0, 2.0] & 0.0 & 0.0 \\
+gpt-4o-mini & s3_hard & 5 & 0 & [0.0, 0.0] & 0.0 & 0.0 \\
+gpt-4o-mini & s4_hard & 5 & 5.4 & [3.48, 7.32] & 0.0 & 0.0 \\
+gpt-4o-mini & s5_hard & 5 & 4 & [4.0, 4.0] & 0.0 & 0.0 \\
+gpt-4o-mini & s6_hard & 5 & 3.6 & [1.68, 5.52] & 0.0 & 0.0 \\
+gpt-4o-mini & s7_hard & 5 & 3 & [3.0, 3.0] & 0.0 & 0.0 \\
+gpt-4o-mini & s8_hard & 5 & 6 & [6.0, 6.0] & 0.0 & 0.0 \\
+gpt-4o & s1_easy & 5 & 9.6 & [5.46, 13.74] & 0.2 & 0.2 \\
+gpt-4o & s2_easy & 5 & 11.2 & [7.36, 15.04] & 0.4 & 0.2 \\
+gpt-4o & s3_easy & 5 & 7.4 & [6.4, 8.4] & 0.0 & 0.0 \\
+gpt-4o & s4_easy & 5 & 9.6 & [5.46, 13.74] & 0.2 & 0.2 \\
+gpt-4o & s5_easy & 5 & 11 & [4.99, 17.01] & 0.4 & 0.4 \\
+gpt-4o & s6_easy & 5 & 8.6 & [8.12, 9.08] & 0.0 & 0.0 \\
+gpt-4o & s7_easy & 5 & 8.8 & [3.45, 14.15] & 0.4 & 0.2 \\
+gpt-4o & s8_easy & 5 & 7 & [7.0, 7.0] & 0.0 & 0.0 \\
+gpt-4o & s1_medium & 5 & 8.8 & [7.23, 10.37] & 0.2 & 0.0 \\
+gpt-4o & s2_medium & 5 & 9.6 & [7.4, 11.8] & 0.4 & 0.0 \\
+gpt-4o & s3_medium & 5 & 10 & [8.36, 11.64] & 0.8 & 0.0 \\
+gpt-4o & s4_medium & 5 & 13.4 & [9.81, 16.99] & 0.8 & 0.4 \\
+gpt-4o & s5_medium & 5 & 5.8 & [2.68, 8.92] & 0.2 & 0.0 \\
+gpt-4o & s6_medium & 5 & 6.4 & [5.92, 6.88] & 0.0 & 0.0 \\
+gpt-4o & s7_medium & 5 & 9.2 & [7.4, 11.0] & 0.6 & 0.0 \\
+gpt-4o & s8_medium & 5 & 9.4 & [5.65, 13.15] & 0.2 & 0.2 \\
+gpt-4o & s1_hard & 5 & 5.8 & [4.84, 6.76] & 0.0 & 0.0 \\
+gpt-4o & s2_hard & 5 & 6.8 & [0.97, 12.63] & 0.4 & 0.2 \\
+gpt-4o & s3_hard & 5 & 6.6 & [6.12, 7.08] & 0.0 & 0.0 \\
+gpt-4o & s4_hard & 5 & 7.4 & [3.6, 11.2] & 0.2 & 0.0 \\
+gpt-4o & s5_hard & 5 & 14.4 & [10.45, 18.35] & 1.0 & 0.4 \\
+gpt-4o & s6_hard & 5 & 5.2 & [3.9, 6.5] & 0.0 & 0.0 \\
+gpt-4o & s7_hard & 5 & 3.8 & [3.07, 4.53] & 0.0 & 0.0 \\
+gpt-4o & s8_hard & 5 & 7.6 & [6.6, 8.6] & 0.0 & 0.0 \\
+\hline
+\end{tabular}
+\caption{Long-Trajectory Agentic Execution benchmark (Flight Booking). pass@k measures consistency.}
+\label{tab:lta-e-flight-results}
+\end{table}
